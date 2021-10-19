@@ -1,0 +1,5 @@
+{
+  "domain": "payment-service.us.auth0.com",
+  "clientId": "4G9CJHhY4CQRc3BKvkRhbOLjguagew64",
+  "audience": "https://payment-service/api"
+}
